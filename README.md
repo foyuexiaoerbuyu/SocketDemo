@@ -36,5 +36,6 @@
 1. 同一个页面实现服务端和客户端。
 2. 完成基本的Socket通讯。
 
-
-
+![](.\pic\Screenshot_20240801_133857.jpg)
+![](.\pic\2FScreenshot_20240801_133901.jpg)
+![](.\pic\2FScreenshot_20240801_133911.jpg)
